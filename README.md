@@ -2,7 +2,7 @@
 
 🚀 [GDG](https://developers.google.com/community/gdg) organiser, through [GDG Madeira](http://gdgmadeira.xyz) and [GDG Tech Sessions](https://tech-sessions.com).
 
-📫 How to reach me: [🐦](twitter.com/carlosrsabreu) or [📧](mailto:carlosrsabreu@gmail.com).
+📫 How to reach me: [🐦](https://twitter.com/carlosrsabreu) or [📧](mailto:carlosrsabreu@gmail.com).
 
 <!--
 **carlosrsabreu/carlosrsabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
